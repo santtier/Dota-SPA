@@ -27,9 +27,12 @@ A list of technologies used within the project:
 ## Installation
 A little intro about the installation. 
 ```
-$ git@github.com:santtier/Dota-SPA.git
+$ git clone git@github.com:santtier/Dota-SPA.git
 $ cd Dota-SPA
+npm install
+npm run server
 ```
+Once you run this command, you must go to http://localhost:3000 to view the app.
 
 ## Collaboration
 Give instructions on how to collaborate with your project.
@@ -61,5 +64,5 @@ There are a set of rules to keep in mind:
 - Recommended using [JSDoc](https://www.youtube.com/watch?v=r0H-acWQS6c)
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit 
+If you want to see the demo of this proyect deployed, you can visit [Dota-SPA](https://dota-spa.herokuapp.com/ "Dota-SPA")
 
